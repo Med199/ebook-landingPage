@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
@@ -36,3 +37,7 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+=======
+# ebook-landingPage
+A simple ebook landing page built with SvelteKit. This project helps me learn the basics of SvelteKit while creating a clean, responsive layout for promoting and selling ebooks online
+>>>>>>> bed379bea2e184fcfbdd2fbbea21a969b8bb6961
